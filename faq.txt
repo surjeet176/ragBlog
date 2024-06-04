@@ -1,0 +1,89 @@
+How do I change my password?
+After you have logged in, you can change your password using the "Change password" option in the top part of the screen. You have to type your current password and the new password you have chosen in their respective boxes.
+---------
+When will I receive my changed ATM PIN?
+You will receive your new ATM PIN by post within 10 days from when your request has been submitted.
+---------
+Can I get my newly generated PIN online?
+No, for security reasons we send you your ATM PIN only by post.
+---------
+Question : How can I register for Autopay?
+Answer : To register for Autopay:
+Step 1: Click on the "Autopay register" link on the left side margin.
+Step 2: Select the Credit Card number that you want to register for the Autopay facility and your HDFC Bank account number from which you want your Credit Card payments to be made.
+Step 3: If you want the full amount of your statement to be paid from your bank account select the "Total amount due" link, and if you want only the minimum amount due (5% of total amount) to be paid, select "Minimum Amount Due".
+Step 4: Click on "Continue" and then on "Confirm".
+A message will be displayed on the screen confirming the successful registration of your Credit Card for Autopay. Please note that it takes 7 days to activate the Autopay facility for your Credit Card account. If your payment due date is 7 days, or less, away from the date of registration for Autopay kindly pay your monthly bill through your usual payment mode as Autopay will only be effective from the next billing cycle.
+----------
+Can Chip Credit cards be used anywhere?
+Yes, your HDFC Bank Chip Credit card can be used anywhere in the world wherever Visa/MasterCard are accepted. 
+At a chip-enabled terminal, you can insert your Chip card into a POS Terminal. If you are using your Chip card at a location that does not have a chip-enabled terminal, your card will be swiped and the transaction will be completed with your signature as in case of a regular card transaction.
+----------
+How do I repay a home loan ?
+For your convenience, HDFC offers various modes for repayment of the home loan. You may issue standing instructions to your banker to pay the installments through ECS (Electronic Clearing System), opt for direct deduction of monthly installments by your employer or issue post-dated cheques from your salary account.
+----------
+When can I make a home loan application?
+You can apply for a Home Loan at any time once you have decided to purchase or construct a property, even if you have not selected the property or the construction has not commenced.
+----------
+How do i make a home loan application?
+You could collect an application form from our nearest office or simply download it from our website and submit it yourself along with the supporting documents and the processing fee cheque at any HDFC office that is convenient to you. Alternatively you have the option to make an online application from anywhere in the world by clicking on ‘Instant Home Loan’ on our website and also know your Home Loan eligibility instantly.
+----------
+Do i get tax benefits on the loan?
+Yes. You are eligible for tax benefits on the principal and interest components of your Home Loan under the Income Tax Act, 1961. As the benefits could vary each year, please do check with our Loan Counselor about the tax benefits which you could avail on your loan.
+----------
+What security will i have to provide?
+Security of the loan would generally be security interest on the property being financed by us and / or any other collateral / interim security as may be required by us.
+It is extremely important for you to ensure that the title to the property is clear, marketable and free from encumbrance. There should not be any existing mortgage, loan or litigation, which is likely to adversely affect the title to the property.
+----------
+Can i repay my loan ahead of schedule?
+Yes, you can repay the loan ahead of schedule by making lump sum payments towards part or full prepayment, subject to the applicable prepayment charges. We also offer a free-of-charge facility to accelerate your loan repayment called ‘Accelerated Repayment Scheme’. This option provides you the flexibility to increase the EMIs every year in proportion to the increase in your income which will result in you repaying the loan much faster.
+----------
+How does a Personal Loan work?
+To avail of the HDFC Bank Personal Loan, all you need to do is submit the loan application form.On meeting the eligibility critieria, you will get an offer with the sanctioned amount, tenure of loan and interest rate.Once you accept the offer, funds are transferred to your bank account instantly.
+You can also submit the application form online in just a few clicks.
+---------
+What is the highest personal loan amount I can get?
+Personal Loan is offered upto ₹40 Lakh. However, basis the loan requirement, one can avail upto ₹75 Lakh subject to eligibility norms.
+---------
+What is the CIBIL Score required to get a loan?
+A CIBIL score above 720 is considered good for sanctioning of Personal Loan.
+---------
+How can I repay my Personal Loan?
+You pay the loan in equal monthly instalments (EMIs) through ECS or a standing instruction to debit your HDFC Bank account with the EMI amount.
+---------
+Do I need to provide any security or collateral to apply for a Personal Loan?
+You don't need to provide any security, collateral or guarantor to obtain a Personal Loan from HDFC Bank.
+---------
+What is a Cardholder Dispute Form? Why is the customer required to fill the dispute form (CDF)?
+Cardholder dispute form is an application made to the issuing bank to investigate & resolve the alleged dispute on the card by virtue of duplicate or multiple billing/ timeout or cancelled transactions/ standing instructions or subscriptions/higher or lower cash withdrawal/unauthorized transaction in any mode of payment etc. A duly filled in Cardholder Dispute Form (CDF) mentioning the details of the disputed transaction enables / authorizes the issuing bank to investigate with the respective Merchant /Member Bank.
+Please click on link below to view the cardholder dispute form. http://www.hdfcbank.com/assets/pdf/transaction_dispute_form.doc
+---------
+I have applied for a Credit Card. How would I know the status of my card application?
+To check the status of your credit card application, visit - https://leads.hdfcbank.com/applications/webforms/apply/cc_track_revamp/index.aspx
+You are required to input the 16-digits Application reference number and Mobile number or Date of Birth (DDMMYYYY)
+---------
+I have not received my Credit Card at my mailing address. How do I track the same?
+In normal circumstances, a newly credit card is delivered within 21 working days of submitting your application.
+If you have registered your mobile number with us, you will receive timely alerts informing you about the status and details of the dispatch of your Credit Card. 
+If you have received the alert on Airway Bill number (courier reference) on your mobile number provided in Credit card application form. You can track the status of the shipment using the Airway Bill number by visiting the courier websites.
+---------
+How do I read my Credit Card Billed statement?
+Your Credit Card Billed statement is divided mainly into four parts -
+Card Information, such as - Statement Date, Credit Card number, Total & available Credit Limit, Payment due date, Total & Minimum amount due etc.
+Account Summary & Past dues -Opening Balance, Payment/Credits for the period, Purchase/Debits for the period, Financial charges (if any) and total dues for the period.
+Transactions for the period - contains the date-wise detailed itinerary of your purchases, payments, fees and interest charges, if any. All your domestic and international transactions are listed here separately.
+Reward point summary - contains earned, lapsed & balance reward points, reward points expiring in next 30 or 60 days.
+You also receive details on the latest offers on your Card.
+---------
+I want to enhance the limit on my card. What should I do?
+Limit assigned on your card is reviewed periodically based on usage and payment pattern on the card account. Please call our phone banking officers to know if your card account is currently eligible for limit enhancement.
+In case there is no limit enhancement eligibility on the card account, we request you to send a duly signed letter along with the documents as given below:
+Salaried - Attested copy of the latest payslip which is not beyond 45 days old and copy of the visiting card or Office Id card.
+Self Employed - Attested copy of the latest ITR (Income Tax Return) and copy of the Pan card along with Computation of Income (this is a part of the ITR which the card holder submits, which lists out the individual breakup of the total income i.e. Income from House Property, Income from business etc.)
+You may use our drop boxes placed for your convenience at our Branch-ATMs. Alternatively, you can mail your income documents to the address mentioned below. 
+HDFC Bank Cards Division,
+PO BOX # 8654
+Thiruvanmiyur PO
+Chennai - 600 041.
+Note: All income / supporting documents as mentioned above will need to be self-attested (duly signed by you) on the document along with a signed letter.
+---------
